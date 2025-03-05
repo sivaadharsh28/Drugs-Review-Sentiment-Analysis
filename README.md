@@ -1,7 +1,3 @@
-Here’s a refined **README** for your project:
-
----
-
 # **Sentiment Analysis on Drug Reviews**  
 
 ## **Overview**  
@@ -38,7 +34,3 @@ This project applies **machine learning** and **natural language processing (NLP
 🔹 Experiment with deep learning techniques such as **BERT-based sentiment analysis**.  
 🔹 Integrate **longitudinal tracking** of patient sentiment for real-time drug performance monitoring.  
 🔹 Explore **unsupervised clustering** to detect emerging trends in patient satisfaction.  
-
----
-
-Let me know if you want any refinements! 🚀
